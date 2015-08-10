@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jp.ac.kanagawa_it.s1223066.ledcustomdisco.test">
+
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="21" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="jp.ac.kanagawa_it.s1223066.ledcustomdisco"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for jp.ac.kanagawa_it.s1223066.ledcustomdisco"/>
+</manifest>
