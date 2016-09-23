@@ -35,7 +35,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/manual_red"
             android:indeterminate="false"
-            android:max="255"/>
+            android:max="16"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -48,7 +48,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/manual_green"
-            android:max="255"
+            android:max="16"
             android:indeterminate="false" />
 
         <TextView
@@ -62,7 +62,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/manual_blue"
-            android:max="255"
+            android:max="16"
             android:indeterminate="false" />
 
         <TextView
@@ -119,7 +119,8 @@
         <SeekBar
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/hue_brightness" />
+            android:id="@+id/hue_brightness"
+            android:max="10"/>
 
         <TextView
             android:layout_width="wrap_content"

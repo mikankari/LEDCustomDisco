@@ -1,5 +1,5 @@
-C:\Users\1223066\do-not-move\AndroidWorkspace3\LEDCustomDisco\app\build\intermediates\classes\debug
-C:\Users\1223066\do-not-move\AndroidWorkspace3\LEDCustomDisco\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-80cc5eb0c41746e4fbb315aad6b444e26923863d.jar
-C:\Users\1223066\do-not-move\AndroidWorkspace3\LEDCustomDisco\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-0e2308afe5facd306fe82932a68e4bc494735279.jar
-C:\Users\1223066\do-not-move\AndroidWorkspace3\LEDCustomDisco\app\build\intermediates\pre-dexed\debug\classes-451877b0378a5b96bb1409de79a13146574952af.jar
-C:\Users\1223066\do-not-move\AndroidWorkspace3\LEDCustomDisco\app\build\intermediates\pre-dexed\debug\classes-8d30b8dba776638c1ce983ad09cb4a5cd552be84.jar
+/Users/mikankari/Desktop/LEDCustomDisco/app/build/intermediates/classes/debug
+/Users/mikankari/Desktop/LEDCustomDisco/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-b8aa8130458c6a7fd3730b8465c10929b5dbaabc.jar
+/Users/mikankari/Desktop/LEDCustomDisco/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-f04489605d27bba779c3e1ceba5f9582903d4ade.jar
+/Users/mikankari/Desktop/LEDCustomDisco/app/build/intermediates/pre-dexed/debug/classes-b644fc5246bccba4616046c179d9da40db2cd7af.jar
+/Users/mikankari/Desktop/LEDCustomDisco/app/build/intermediates/pre-dexed/debug/classes-2f061d04061c44407348fc66701123c5a821a7cd.jar

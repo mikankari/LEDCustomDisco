@@ -4,4 +4,4 @@
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
 </menu>
-<!-- From: file:/C:/Users/1223066/do-not-move/AndroidWorkspace3/LEDCustomDisco/app/src/main/res/menu/menu_main.xml -->
+<!-- From: file:/Users/mikankari/Desktop/LEDCustomDisco/app/src/main/res/menu/menu_main.xml -->

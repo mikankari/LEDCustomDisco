@@ -83,6 +83,7 @@ public class MainActivity extends ActionBarActivity {
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
                 int value = seekBar.getProgress();
+                value = (int) Math.pow(value, 2);
                 setLedValue("red", value);
                 setLedValue("led-front-red1", value);
                 setLedValue("led-back-red1", value);
@@ -104,6 +105,7 @@ public class MainActivity extends ActionBarActivity {
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
                 int value = seekBar.getProgress();
+                value = (int) Math.pow(value, 2);
                 setLedValue("green", value);
                 setLedValue("led-front-green1", value);
                 setLedValue("led-front-green2", value);
@@ -125,6 +127,7 @@ public class MainActivity extends ActionBarActivity {
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
                 int value = seekBar.getProgress();
+                value = (int) Math.pow(value, 2);
                 setLedValue("blue", value);
                 setLedValue("led-front-blue1", value);
                 setLedValue("led-front-blue2", value);
@@ -196,6 +199,7 @@ public class MainActivity extends ActionBarActivity {
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
                 int value = seekBar.getProgress();
+                value = (int) Math.pow(value, 2);
                 setLedValue("rgb-hue-brightness", value);
                 setLedValue("led-front-hue-brightness1", value);
                 setLedValue("led-front-hue-brightness2", value);
